@@ -6,10 +6,13 @@
 Welcome to 182's documentation!
 ===============================
 
+Description od this website. Example.
+
 .. toctree::
    :maxdepth: 2       
    :caption: Contents:
 
+   summary 
    code
 
 Indices and tables
