@@ -24,6 +24,7 @@ author = 'jflatorreg'
 # The full version, including alpha/beta/rc tags
 release = 'MIT'
 
+version = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 
